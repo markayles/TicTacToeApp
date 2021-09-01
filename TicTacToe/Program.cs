@@ -60,7 +60,7 @@ namespace TicTacToe
 
             if (GameLogic.GetGameState() == GameState.Win)
             {
-                Console.WriteLine($"{playerOfcurrentTurn.Name} won!");
+                Console.WriteLine($"{playerOfcurrentTurn.Name} ({playerOfcurrentTurn.Mark}) won!");
             }
             else if(GameLogic.GetGameState() == GameState.Tie)
             {
