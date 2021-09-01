@@ -11,4 +11,6 @@ Just for the sake of creating something.
 - Dynamically draw the grid instead of the hard coded writelines.
 - Add console colors to easily distinguish between the different players spots on the board. Also a different color to identify the last placed spot.
 - Refactor GameLogic in the TicTacToeLibrary to extract the data out instead of being static. Lack of planning on that part lead to the several static variables.
+- Networked multiplayer?
+- Modify project to have a GUI?
 - Potentially more...
