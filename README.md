@@ -1,5 +1,6 @@
 # TicTacToeApp
 A TicTacToe game implemented in the console designed for 2 players at the same computer or for a single player against an AI opponent.
+![Screenshot](https://i.imgur.com/uX6DJaJ.png)
 
 ### Purpose of This Project
 Just for the sake of creating something. 
